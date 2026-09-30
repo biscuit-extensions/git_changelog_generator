@@ -1,0 +1,7 @@
+[extension]
+id = "git_changelog_generator"
+name = "Git Changelog Generator"
+version = "0.1.0"
+description = "Git Changelog Generator extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
